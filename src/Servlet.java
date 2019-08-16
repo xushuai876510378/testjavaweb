@@ -14,7 +14,7 @@ public class Servlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        System.out.println("进入servletdopost方法！");
+        System.out.println("进入servletdopost方法222！");
     }
 
     @Override
